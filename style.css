@@ -1,0 +1,272 @@
+body {
+    background-image: url('Gallery/background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.navbar {
+    background-color:#ead5cf !important;
+    background-image: none;
+    background-repeat: no-repeat;
+
+}
+
+
+.fa-search{
+    color: rgb(91,63,97);
+}
+.fa-align-left{
+    color: #e84f88;
+}
+.btn-outline-success{
+    color: rgb(91,63,97);
+    outline: none;
+}
+.carousel{
+    background-color:#ead5cf !important;
+ height: 500px;
+
+}
+.image{
+    position: absolute;
+    left:300px;
+    right:400px;
+   bottom:1px;
+    top:auto;
+}
+.text{
+    position: absolute;
+    top:130px;
+    left: 230px;
+    right: auto;
+}
+.prev{
+    position: absolute;
+    top: 250px;
+    bottom: auto;
+    left:100px;
+    right: auto;
+}
+
+.next {
+
+    position: absolute;
+    left: 1000px;
+    top: 250px;
+    width: 30px;
+    height: 15px;
+    z-index: 34;
+}
+.sessions{
+    height: 200px;
+}
+.spring{
+    background-color: #ecf3e8;
+
+}
+.springt{
+    font-size: 40px;
+    font-family: "Myriad Pro";
+    color: rgb(91, 63, 97);
+    line-height: 2.083;
+    text-align: left;
+    position: absolute;
+    left:100px;
+    top: 100px;
+
+}
+.summer{
+    background-color:#f1e5e5;
+}
+.summert {
+    font-size: 40px;
+    font-family: "Code";
+    color: rgb(232, 79, 136);
+    font-weight: bold;
+    line-height: 2.083;
+    text-align: left;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+
+.autumn{
+    background-color: #f6f3e6;
+}
+.autumnt {
+    font-size: 40px;
+    font-family: "Code";
+    color: rgb(91, 63, 97);
+    line-height: 2.083;
+    text-align: left;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+.winter{
+    background-color: #ecf4f5;
+}
+.wintert {
+    font-size: 40px;
+    font-family: "Code";
+    color: rgb(91, 63, 97);
+    line-height: 2.083;
+    text-align: left;
+    position: absolute;
+    left: 70px;
+    top: 100px;
+}
+.background {
+    background-color:white !important;
+    width: 2000px;
+    height: 2000px;
+
+}
+.modelbg1 {
+    background-image: url("Gallery/modelbg1.png");
+    position: absolute;
+    width: 224px;
+    height: 250px;
+    top:100px;
+    left:50px;
+}
+.model{
+    position: absolute;
+    left:5px;
+    top: 40px;
+    z-index: 155;
+}
+.heart {
+
+    position: absolute;
+    left: 150px;
+    top: 5px;
+}
+.add {
+    position: absolute;
+    left: 170px;
+    top: 5px;
+}
+.modelbg2 {
+    background-image: url("Gallery/modelbg2.png");
+    position: absolute;
+    left: 260px;
+    top: 100px;
+    width: 956px;
+    height: 520px;
+    z-index: 138;
+}
+.model1 {
+    position: absolute;
+    left: 140px;
+    top:77px;
+    z-index: 139;
+}
+.heart1 {
+
+    position: absolute;
+    left: 810px;
+    top: 5px;
+}
+.add1 {
+    position: absolute;
+    left: 830px;
+    top: 5px;
+}
+.modelbg3 {
+    background-image: url("Gallery/modelbg3.png");
+    position: absolute;
+    width: 224px;
+    height: 250px;
+    top:370px;
+    left:50px;
+}
+.model2{
+    position: absolute;
+    left:30px;
+    top: 30px;
+
+}
+.heart2 {
+
+    position: absolute;
+    left: 150px;
+    top: 5px;
+}
+.add2 {
+    position: absolute;
+    left: 170px;
+    top: 5px;
+}
+.modelbg4 {
+    background-image: url("Gallery/modelbg4.png");
+    position: absolute;
+    left:50px;
+    top: 640px;
+    width: 680px;
+    height: 250px;
+}
+.model3{
+    position: absolute;
+    left:50px;
+    top: 30px;
+
+}
+.heart3 {
+
+    position: absolute;
+    left: 640px;
+    top: 5px;
+}
+.add3 {
+    position: absolute;
+    left: 660px;
+    top: 5px;
+}
+.modelbg5 {
+
+    position: absolute;
+    left:740px;
+    top: 640px;
+    width: 204px;
+    height: 250px;
+}
+.modelbg6 {
+
+    position: absolute;
+    left:930px;
+    top: 640px;
+    width: 204px;
+    height: 250px;
+}
+.modelbg7 {
+    position: absolute;
+
+    top:910px;
+    left:0px;
+}
+.modelbg8 {
+    position: absolute;
+    top:910px;
+    left:250px;
+}
+.modelbg9 {
+    position: absolute;
+    top:910px;
+    left:455px;
+}
+.modelbg10 {
+    position: absolute;
+    top:910px;
+    left:930px;
+}
+.bar{
+    position: absolute;
+    top:1200px;
+    left:35px;
+}
+.tekstas{
+    position: absolute;
+    top: 1220px;
+    left:500px;
+}
