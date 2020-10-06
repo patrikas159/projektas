@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c7a8053-7e8f-44bd-ad5b-a7db633bff0b" name="Default Changelist" comment="" />
+    <list default="true" id="7c7a8053-7e8f-44bd-ad5b-a7db633bff0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iHZB5mYLwf7Vut0k7yJsTSrr0n" />
   <component name="ProjectViewState">
@@ -48,17 +55,41 @@
       <workItem from="1601641791864" duration="7433000" />
       <workItem from="1601809097700" duration="4837000" />
       <workItem from="1601892568567" duration="9915000" />
+      <workItem from="1601963877871" duration="7036000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601902377921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601902377921" />
+    <state x="748" y="387" key="Github.CreatePullRequestDialog" timestamp="1601972869998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="387" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601972869998" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601972779586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601972779586" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601972834170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601972834170" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601568083578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

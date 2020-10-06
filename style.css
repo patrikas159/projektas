@@ -8,10 +8,9 @@ body {
     background-color:#ead5cf !important;
     background-image: none;
     background-repeat: no-repeat;
+    width: 1140px;
 
 }
-
-
 .fa-search{
     color: rgb(91,63,97);
 }
@@ -125,7 +124,7 @@ body {
 .modelbg1 {
     background-image: url("Gallery/modelbg1.png");
     position: absolute;
-    width: 224px;
+
     height: 250px;
     top:100px;
     left:50px;
@@ -263,10 +262,28 @@ body {
 .bar{
     position: absolute;
     top:1200px;
-    left:35px;
+    text-align: center;
 }
 .tekstas{
     position: absolute;
     top: 1220px;
-    left:500px;
+    text-align: center;
+}
+.trends{
+    position: absolute;
+    top: 700px;
+    align-items: center;
+}
+.sponsors{
+    position: absolute;
+    top: 960px;
+    align-items: center;
+}
+.img-responsive{
+    position: absolute;
+    left:0px;
+
+
+
+
 }
